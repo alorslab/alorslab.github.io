@@ -1,4 +1,3 @@
-Place future Alors Lab and Pixvera image assets in this folder.
+Pixvera image assets used by the website are stored in this folder.
 
-The current website uses only HTML and CSS, so no image assets are required.
-
+pixvera-logo.png is used as the Pixvera product mark and website favicon.

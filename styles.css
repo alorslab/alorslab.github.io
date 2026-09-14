@@ -363,6 +363,14 @@ h3 {
   transform: rotate(-8deg);
 }
 
+.visual-orb img {
+  display: block;
+  width: 72%;
+  height: 72%;
+  object-fit: contain;
+  filter: invert(1);
+}
+
 .visual-chip {
   position: absolute;
   z-index: 3;
@@ -454,6 +462,14 @@ h3 {
   font-weight: 780;
   letter-spacing: -0.08em;
   transform: rotate(3deg);
+}
+
+.showcase-icon img {
+  display: block;
+  width: 72%;
+  height: 72%;
+  object-fit: contain;
+  filter: invert(1);
 }
 
 .about-grid,
